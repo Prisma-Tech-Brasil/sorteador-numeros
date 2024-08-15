@@ -31,8 +31,8 @@ body::before {
   align-items: center;
   justify-content: space-around;
   border-radius: 16px;
-  border: 2px solid #1565C0;
-  background-color: #0A2540;
+  border: 2px solid #1565c0;
+  background-color: #0a2540;
   box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
   position: relative;
   overflow: hidden;
@@ -50,7 +50,7 @@ body::before {
 }
 
 .container__text-blue {
-  color: #1565C0;
+  color: #1565c0;
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -68,8 +68,8 @@ body::before {
   height: 72px;
   border-radius: 12px;
   background-color: #ffffff;
-  border: 2px solid #1565C0;
-  color: #1565C0;
+  border: 2px solid #1565c0;
+  color: #1565c0;
   padding: 1rem;
   font-size: 24px;
   font-weight: 600;
@@ -86,7 +86,7 @@ body::before {
   width: 100%;
   max-width: 200px;
   border-radius: 12px;
-  background: #1565C0;
+  background: #1565c0;
   color: #fff;
   padding: 12px 24px;
   font-size: 22px;
@@ -97,7 +97,7 @@ body::before {
 }
 
 .container__button:hover {
-  background-color: #0F4CA8;
+  background-color: #0f4ca8;
 }
 
 .container__button-disabled {
